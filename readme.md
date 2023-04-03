@@ -24,7 +24,7 @@ arc
 
 下边给大家介绍Xcode14调试11.0之前的系统的方法：
 
-![截屏2022-09-15 09.55.56](./document/截屏2022-09-15 09.55.56.png)
+![截屏2022-09-15 09.55.56](https://github.com/wang-junxing/DeviceSupport/blob/master/document/%E6%88%AA%E5%B1%8F2022-09-15%2009.55.56.png?raw=true)
 
 1.首先在Xcode14之前的版本下，应用程序-xcode 显示包内容 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport ，把程序中的低于11.0的文件夹拷贝到Xcode14的相应目录下。
 
